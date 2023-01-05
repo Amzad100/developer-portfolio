@@ -113,3 +113,19 @@ main {
     font-size: 18px;
     color: #757575;
 }
+
+.about-info-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.info-title {
+    font-weight: 400;
+    font-size: 20px;
+    color: #757575;
+}
+
+.info-discription {
+    font-weight: 700;
+    font-size: 20px;
+}
